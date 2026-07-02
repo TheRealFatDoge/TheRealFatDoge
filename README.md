@@ -10,20 +10,28 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
+<a href="mail-to:balics.attila.adam@gmail.com" target="_blank">
 <p align="left">
-<a href="mail-to:balics.attila.adam@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail" height="30" width="40" />
 - balics.attila.adam@gmail.com
 </p>
+</a>
+<a href="https://www.instagram.com/b.attila14/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 <p align="left">
-<a href="https://www.instagram.com/b.attila14/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 - b.attila14
 </p>
+</a>
+<a href="discord.gg" target="_blank">
+<img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" />
 <p align="left">
-<a href="discord.gg" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" /></a>
 - therealfatdoge
 </p>
+</a>
+<a href="https://www.linkedin.com/in/attila-balics-17a6352b7/" target="_blank">
 <p align="left">
-<a href="https://www.linkedin.com/in/attila-balics-17a6352b7/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/25824/linked-in-logo-of-two-letters.svg" alt="LinkedIn" height="30" width="40" /></a>
+<img align="center" src="https://www.svgrepo.com/show/25824/linked-in-logo-of-two-letters.svg" alt="LinkedIn" height="30" width="40" />
 - Balics Attila
 </p>
+</a>
 
