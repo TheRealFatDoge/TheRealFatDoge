@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Doge 👋</h1>
-<h3 align="center">Software Engineer • HPC • Rust • AI • Hungary 🇭🇺</h3>
+<h1 align="center">Hi, I'm Doge (Attila) 👋</h1>
+<h3 align="center">Software Engineer • HPC • Rust • Python • NeuralNetworks • Hungary 🇭🇺</h3>
 
 <p align="center">
   Building high-performance software, distributed systems, and data processing tools.
@@ -30,29 +30,30 @@
 <a href="mailto:balics.attila.adam@gmail.com">
   <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="24" alt="Email" align="center"/>
 </a>
-&nbsp;
 <a href="mailto:balics.attila.adam@gmail.com">balics.attila.adam@gmail.com</a>
 
-<br><br>
+<br>
+<br>
 
 <a href="https://www.linkedin.com/in/attila-balics-17a6352b7/" target="_blank">
-  <img src="https://www.svgrepo.com/show/25824/linked-in-logo-of-two-letters.svg" width="24" alt="LinkedIn" align="center"/>
+  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="24" alt="LinkedIn" align="center"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/attila-balics-17a6352b7/" target="_blank">Attila Balics</a>
 
-<br><br>
+<br>
+<br>
 
 <a href="https://www.instagram.com/b.attila14/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="24" alt="Instagram" align="center"/>
 </a>
-&nbsp;
 <a href="https://www.instagram.com/b.attila14/" target="_blank">@b.attila14</a>
 
-<br><br>
+<br>
+<br>
 
+<a href="https://discord.gg/" target="_blank">
 <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="24" alt="Discord" align="center"/>
-&nbsp;
-**therealfatdoge**
+</a>
+<a href="https://discord.gg/" target="_blank">therealfatdoge</a>
 
 </p>
